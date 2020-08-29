@@ -12,3 +12,13 @@ tiling background:url.jpg
 building cost increase:10%
 building cost refund:5%
 text:You have [?(this=0)|no gold|[this] gold].
+Upgrades
+  *foodapple
+    name:Apple
+    desc:This Apple is alright.
+  *foodbanana
+    name:Banana
+    desc:This Banana is sweet.
+  *foodburger
+    name:Burger
+    desc:This Burger is delicious.
